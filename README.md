@@ -8,4 +8,6 @@ Main features:
 - score container, timer container
 
 
-INFO: Check also "Whack a Mole" in plain JavaScript: https://github.com/Anna-portfolio/Whack-a-Mole.git
+INFO: 
+- All the images and sounds created by @Anna-portfolio
+- Check also "Whack a Mole" in plain JavaScript: https://github.com/Anna-portfolio/Whack-a-Mole.git
