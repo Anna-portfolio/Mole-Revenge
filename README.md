@@ -2,7 +2,7 @@
 An arcade game using Python (Pygame)
 
 
-![mole-revenge-img](https://user-images.githubusercontent.com/75646880/109959242-7f4d6400-7ce7-11eb-9941-a9264c0db872.png)
+![mole-revenge-img](https://user-images.githubusercontent.com/75646880/109959386-af950280-7ce7-11eb-8312-c7f5a690c336.png)
 
 
 Main features:
