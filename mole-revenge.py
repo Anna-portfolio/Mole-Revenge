@@ -46,7 +46,7 @@ def show_score(x, y):
     screen.blit(score, (x, y))
 
 
-counter = 31
+counter = 10
 font = pygame.font.Font('ArchitectsDaughter-Regular.ttf', 35)
 timeX = 380
 timeY = 10
