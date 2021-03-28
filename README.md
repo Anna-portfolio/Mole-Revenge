@@ -1,17 +1,15 @@
 # Mole's Revenge
-An arcade game using Python (Pygame)
+An arcade game using Python (Pygame), same as "Mole's Revenge" in JavaScript (link below)
 
-
-![mole-revenge-img](https://user-images.githubusercontent.com/75646880/109959386-af950280-7ce7-11eb-8312-c7f5a690c336.png)
+![mole-revenge-python](https://user-images.githubusercontent.com/75646880/112770044-e4fde900-9024-11eb-9019-3aa589f44642.png)
 
 
 Main features:
-- aim: use the arrow keys to move the mole and collect maximum hammers within 30 seconds
+- aim: use the arrow keys to move the mole and collect maximum hammers within 10 seconds
 - using Python (Pygame + Pygame/Mixer, math, threading/Timer, random)
-- a score sound effect while collecting the hammer
-- score container, timer container
-
+- each time a hammer is collected, a score sound effect is played
+- top boxes: score container, timer container
 
 INFO: 
 - All the images and sounds created by @Anna-portfolio
-- Check also "Whack a Mole" in plain JavaScript: https://github.com/Anna-portfolio/Whack-a-Mole.git
+- Check also "Mole's Revenge" in JavaScript (plain; https://github.com/Anna-portfolio/Mole-Revenge-JS) and "Whack a Mole" in JavaScript (plain; https://github.com/Anna-portfolio/Whack-a-Mole.git)
