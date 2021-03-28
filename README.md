@@ -1,4 +1,4 @@
-# Mole's Revenge
+# Mole-Revenge-Python
 An arcade game using Python (Pygame), same as "Mole's Revenge" in JavaScript (link below)
 
 ![mole-revenge-python](https://user-images.githubusercontent.com/75646880/112770044-e4fde900-9024-11eb-9019-3aa589f44642.png)
